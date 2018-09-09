@@ -23,4 +23,5 @@ dlg.Destroy()
 app.MainLoop()
 
 en nu een regel
+en nog een regel
 # 
