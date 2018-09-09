@@ -21,3 +21,6 @@ for indx, path in enumerate(paths):
 dlg.Destroy()
 
 app.MainLoop()
+
+en nu een regel
+# 
